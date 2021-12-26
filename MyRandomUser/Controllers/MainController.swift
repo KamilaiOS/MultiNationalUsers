@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MyRandomUser
 //
-//  Created by Akib Quraishi on 26/11/2021.
+//  Created by Kamila Lech on 26/11/2021.
 //
 
 import UIKit
@@ -15,14 +15,10 @@ class MainController: UIViewController, UICollectionViewDelegate, UICollectionVi
    
 
     var grouppedUsers = [GrouppedUsers]()
-    
     var userCollectionView : UICollectionView?
-    
     let dispatchGroup = DispatchGroup()
     
-    
-    
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.

@@ -2,7 +2,7 @@
 //  UserHorizontalController.swift
 //  MyRandomUser
 //
-//  Created by Akib Quraishi on 28/11/2021.
+//  Created by Kamila Lech on 28/11/2021.
 //
 
 import Foundation

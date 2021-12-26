@@ -2,7 +2,7 @@
 //  Service.swift
 //  AppleStore
 //
-//  Created by Akib Quraishi on 26/09/2019.
+//  Created by Kamila Lech on 26/09/2019.
 //  Copyright © 2019 AkibiOS. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  HorizontalSnappingController.swift
 //  AppStoreJSONApis
 //
-//  Created by Akib Quraishi on 22/10/2021.
+//  Created by Kamila Lech on 22/10/2021.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  CountryCell.swift
 //  MyRandomUser
 //
-//  Created by Akib Quraishi on 27/11/2021.
+//  Created by Kamila Lech on 27/11/2021.
 //
 
 import Foundation
